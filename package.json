@@ -1,7 +1,8 @@
 {
   "name": "reusable-component-library-rohit-luthra",
-  "version": "1.0.0",
+  "version": "1.0.7",
   "description": "React based reusable component library",
+  "keywords": ["react", "react-flow", "reactjs" ],
   "author": "Rohit Kumar Luthra",
   "license": "MIT",
   "repository": "rohitluthra19/reusable-component-library-rohit-luthra",
