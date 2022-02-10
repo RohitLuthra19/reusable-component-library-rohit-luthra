@@ -57,7 +57,7 @@
     "rollup-plugin-postcss": "^1.6.2",
     "rollup-plugin-url": "^1.4.0",
     "flow-bin": "^0.98.1",
-    "node-sass": "^4.12.0"
+    "node-sass": "^7.0.0"
   },
   "files": [
     "dist"
